@@ -42,6 +42,9 @@ INSTALLED_APPS = [
     'functionbasedview',
     'classbasedview',
     'genericbasedview',
+    'concretebasedview',
+    'viewset',
+    'modelviewset',
 
 ]
 
